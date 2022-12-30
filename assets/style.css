@@ -1,0 +1,80 @@
+body {
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#questionDiv {
+    margin-left: 60px;
+    margin-bottom: 40px;
+}
+
+h1, 
+h2 {
+    color: black;
+    font-family: 'Typeface Mario World Pixel Filled', sans-serif;
+}
+
+a {
+    color: black;
+    font-family: 'Typeface Mario World Pixel Filled', sans-serif;
+    font-weight: bold; 
+}
+
+.row {
+    Margin-top:90px;
+    Margin-left:150px;
+}
+
+a:hover {
+    color: transparent;
+    font-family: 'Typeface Mario World Pixel Filled', sans-serif;
+}
+
+.btn-info{
+    color: black;
+    background-color: Transparent;
+    border-color: transparent;
+    font-family:'Typeface Mario World Pixel Filled', sans-serif;
+    
+}
+#start-quiz-button {
+    margin-top: 170px;
+    margin-right: 200px;
+    padding: .1rem 13rem;
+    font-family:'Typeface Mario World Pixel Filled', sans-serif;
+    background:transparent;
+    margin-bottom: 30px;
+    border: none;
+}
+
+a.button a:hover{
+    background: red;
+    font-family:'Typeface Mario World Pixel Filled', sans-serif;
+}
+
+#finalScore {
+    font-family: 'Typeface Mario World Pixel Filled', sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family: 'Typeface Mario World Pixel Filled', sans-serif;
+}
+
+p {
+    font-family: 'Typeface Mario World Pixel Filled', sans-serif;
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+#questionTitle {
+    font-size: 15px;
+    font-family: 'Typeface Mario World Pixel Filled', sans-serif;
+}
+
+#answerCheck {
+    font-family: 'Typeface Mario World Pixel Filled', sans-serif;
+    color: #4D5159;
+}
+#timesUp {
+    font-family:'Typeface Mario World Pixel Filled', sans-serif;
+}
